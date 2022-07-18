@@ -2,7 +2,6 @@
 
 ```bash
 Nome: Gustavo Lopes Rodrigues
-Matrícula: 655265
 Professor: Marcos André Silveira Kutova
 ```
 
